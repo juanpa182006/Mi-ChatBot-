@@ -1,5 +1,5 @@
-import streamlit as st
-from groq import Groq
+import streamlit as st #type: ignore
+from groq import Groq #type: ignore
 
 
 st.set_page_config(page_title='Mi primer CHATBOT', page_icon='smile')
